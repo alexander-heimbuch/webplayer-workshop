@@ -1,5 +1,7 @@
 # Podlove Web Player v4 - Workshop
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alexander-heimbuch/webplayer-workshop.svg)](https://greenkeeper.io/)
+
 ---
 
 ## Agenda
